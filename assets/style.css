@@ -1,0 +1,8 @@
+:root{
+    --grey: #E3DEE8;
+}
+.container-xxl{
+    text-align: center;
+    background-color: var(--grey);
+    width:100%
+}
